@@ -1,1 +1,2 @@
-# Housing-Market-Prediction-and-AWS-bot-
+# FintechBootcampProject2
+Project 2 for Fintech Bootcamp 
